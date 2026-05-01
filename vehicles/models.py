@@ -20,7 +20,7 @@ class VehicleType(models.Model):
         verbose_name='Descrição',
     )
 
-class Vehicles(models.Model):
+class Vehicle(models.Model):
     class Meta:
         verbose_name = 'Veículo'
         verbose_name_plural = 'Veículos'

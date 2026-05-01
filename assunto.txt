@@ -51,9 +51,12 @@ Não Funcionais:
 
 
 Oque fazer por agora:
-    MODELAGEM ✅
-    ADMIN ✅
-    SIGNALS (STATUS DE VAGAS) ✅
+    Django Jazzmin
+        Design
+        Estáticos, logos e icons
     RESTAPI DAS ENTIDADES BÁSICAS
+    Autenticação e permissões
+        permissões por action e object
+        permissão de owner do veículo
     REQUIREMENTS
     LINTER (FLAKE8)

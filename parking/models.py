@@ -1,5 +1,5 @@
 from django.db import models
-from vehicles.models import Vehicles
+from vehicles.models import Vehicle
 
 class ParkingSpot(models.Model):
     class Meta:
@@ -36,7 +36,7 @@ class ParkingRecord(models.Model):
         return f'{self.vehicle} - {self.parking_spot} - {self.entry_time}'
 
     vehicle = models.ForeignKey(
-        Vehicles,
+        Vehicle,
         on_delete=models.PROTECT,
         related_name='parking_records',
         verbose_name='Veículo',

@@ -51,7 +51,7 @@ Não Funcionais:
 
 
 Oque fazer por agora:
-    MODELAGEM
+    MODELAGEM ✅
     ADMIN
     SIGNALS (STATUS DE VAGAS)
     RESTAPI DAS ENTIDADES BÁSICAS

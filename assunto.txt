@@ -52,8 +52,8 @@ Não Funcionais:
 
 Oque fazer por agora:
     MODELAGEM ✅
-    ADMIN
-    SIGNALS (STATUS DE VAGAS)
+    ADMIN ✅
+    SIGNALS (STATUS DE VAGAS) ✅
     RESTAPI DAS ENTIDADES BÁSICAS
     REQUIREMENTS
     LINTER (FLAKE8)

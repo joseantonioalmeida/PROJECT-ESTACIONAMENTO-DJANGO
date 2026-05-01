@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # meus apps
     'customers',
     'vehicles',
+    'parking',
 ]
 
 MIDDLEWARE = [

@@ -1,3 +1,15 @@
 from django.contrib import admin
+from parking.models import ParkingRecord, ParkingSpot
 
-# Register your models here.
+
+@admin.register(ParkingSpot)
+class ParkingSpotAdmin(admin.ModelAdmin):
+    list_display = ['spot_number', 'is_occupied', 'created_at']
+    search_fields = ['spot_number', 'is_occupied']
+    list_filter = ['is_occupied']
+
+
+@admin.register(ParkingRecord)
+class ParkingRecordAdmin(admin.ModelAdmin):
+    list_display = ['vehicle', 'parking_spot', 'entry_time', 'exit_time']
+    search_fields = ['vehicles__license_plate', 'parking_spot__spot_number']

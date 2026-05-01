@@ -7,7 +7,7 @@ class Customer(models.Model):
         verbose_name = 'Cliente'
         verbose_name_plural = 'Clientes'
 
-    def ___str__(self):
+    def __str__(self):
         return self.name
     
     user = models.OneToOneField(

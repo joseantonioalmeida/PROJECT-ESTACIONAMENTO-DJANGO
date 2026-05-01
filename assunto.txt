@@ -1,0 +1,59 @@
+Sistema e API de Estacionamento com Python e Django do Zero
+
+Requisitos do projeto Parking Service:
+https://whimsical.com/parking-service-SSoifu29a1MVLAmLAPMk2a
+
+Funcionais:
+    Sistema de administração interno:
+        Controle de usuários, acessos e permissões
+        Cadastros:
+            Clientes;
+            Veículos;
+            Vagas;
+            Entradas e saídas de Veículos.
+        Status de vagas automático (ocupado/livre)
+    
+    API pra futuras integrações:
+        Cadastros completos das entidades
+            Clientes
+            Veículos
+            Vagas
+            Entradas e saídas de veículos
+        Autenticação
+        Filtros
+        Possibilidade de acesso dos Clientes:
+            Ver apenas seus veículos e registros
+    
+    Auto completar dados dos veículos quando informado apenas a placa
+        Verificar API de consulta
+        Rodar em paralelo
+    
+    Notificar proprietário nas entradas e saídas dos veículos:
+        WhatsApp:
+            EvolutionApi.
+        E-mail:
+            SMTP.
+
+Não Funcionais:
+    Dashboard do Jazzmin
+    API Restfull
+    Linter e pep08
+    JWT token para API
+    RQL para Filtros
+    Testes
+    Serviços em containers
+    EvolutionApi (Serviços e integrações)
+    E-mail SMTP (integração e envio)
+    PostgreSQL
+    Celery e RabbitMQ
+        Rodar taskes de buscas de auto completar dados de veículos
+    Documentação da API (Swagger)
+
+
+Oque fazer por agora:
+    MODELAGEM
+    ADMIN
+    SIGNALS (STATUS DE VAGAS)
+    RESTAPI DAS ENTIDADES BÁSICAS
+    REQUIREMENTS
+    LINTER (FLAKE8)

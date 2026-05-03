@@ -51,9 +51,9 @@ Não Funcionais:
 
 
 Oque fazer por agora:
-    Django Jazzmin
-        Design
-        Estáticos, logos e icons
+    Django Jazzmin✅
+        Design ✅
+        Estáticos, logos e icons ✅
     RESTAPI DAS ENTIDADES BÁSICAS
     Autenticação e permissões
         permissões por action e object

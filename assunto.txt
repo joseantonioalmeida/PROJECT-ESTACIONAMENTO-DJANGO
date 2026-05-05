@@ -51,10 +51,7 @@ Não Funcionais:
 
 
 Oque fazer por agora:
-    Admin no root ✅
-    RQL ✅
-        django-rql Getting started - Django RQL Library ✅
-    Swagger
-        drf-spectacular drf-spectacular documentation
+    Swagger ✅
+        drf-spectacular drf-spectacular documentation ✅
     Docker e docker-compose
     PostgreSQL

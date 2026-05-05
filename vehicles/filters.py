@@ -3,9 +3,9 @@ from vehicles.models import VehicleType, Vehicle
 
 
 class VehicleTypeFilterClass(AutoRQLFilterClass):
-    MODEL =  VehicleType
+    MODEL = VehicleType
 
 
-class VehicleFilterClass (AutoRQLFilterClass):
+class VehicleFilterClass(AutoRQLFilterClass):
     MODEL = Vehicle
 

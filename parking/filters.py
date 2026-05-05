@@ -8,9 +8,3 @@ class ParkingSpotFilterClass(AutoRQLFilterClass):
 
 class ParkingRecordFilterClass(AutoRQLFilterClass):
     MODEL = ParkingRecord
-    FILTERS = (
-        {
-            'filter': 'license_plate',
-            'source': 'vehicle__license_plate',
-        }
-    )

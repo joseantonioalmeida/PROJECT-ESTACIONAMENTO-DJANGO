@@ -55,8 +55,8 @@ Oque fazer por agora:
         Design ✅
         Estáticos, logos e icons ✅
     RESTAPI DAS ENTIDADES BÁSICAS ✅
-    Autenticação e permissões
-        permissões por action e object
-        permissão de owner do veículo
-    REQUIREMENTS
-    LINTER (FLAKE8)
+    Autenticação e permissões ✅
+        permissões por action e object ✅
+        permissão de owner do veículo ✅
+    REQUIREMENTS ✅
+    LINTER (FLAKE8) ✅

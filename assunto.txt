@@ -51,12 +51,10 @@ Não Funcionais:
 
 
 Oque fazer por agora:
-    Django Jazzmin✅
-        Design ✅
-        Estáticos, logos e icons ✅
-    RESTAPI DAS ENTIDADES BÁSICAS ✅
-    Autenticação e permissões ✅
-        permissões por action e object ✅
-        permissão de owner do veículo ✅
-    REQUIREMENTS ✅
-    LINTER (FLAKE8) ✅
+    Admin no root ✅
+    RQL ✅
+        django-rql Getting started - Django RQL Library ✅
+    Swagger
+        drf-spectacular drf-spectacular documentation
+    Docker e docker-compose
+    PostgreSQL

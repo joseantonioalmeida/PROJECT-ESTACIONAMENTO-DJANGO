@@ -196,3 +196,5 @@ SPECTACULAR_SETTINGS = {
     'DESCRIPTION': 'API do Parking Service',
     'VERSION': '1.0.0',
 }
+
+CELERY_BROKER_URL = 'amqp://guest:guest@rabbitmq:5672//'

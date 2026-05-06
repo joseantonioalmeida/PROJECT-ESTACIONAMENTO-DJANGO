@@ -4,7 +4,7 @@ Requisitos do projeto Parking Service:
 https://whimsical.com/parking-service-SSoifu29a1MVLAmLAPMk2a
 
 Funcionais:
-    Sistema de administração interno:
+    ✅Sistema de administração interno:
         Controle de usuários, acessos e permissões
         Cadastros:
             Clientes;
@@ -13,15 +13,15 @@ Funcionais:
             Entradas e saídas de Veículos.
         Status de vagas automático (ocupado/livre)
     
-    API pra futuras integrações:
+    ✅API pra futuras integrações:
         Cadastros completos das entidades
             Clientes
             Veículos
             Vagas
             Entradas e saídas de veículos
-        Autenticação
-        Filtros
-        Possibilidade de acesso dos Clientes:
+        ✅Autenticação
+        ✅Filtros
+        ✅Possibilidade de acesso dos Clientes:
             Ver apenas seus veículos e registros
     
     Auto completar dados dos veículos quando informado apenas a placa
@@ -35,23 +35,21 @@ Funcionais:
             SMTP.
 
 Não Funcionais:
-    Dashboard do Jazzmin
-    API Restfull
-    Linter e pep08
-    JWT token para API
-    RQL para Filtros
+    Dashboard do Jazzmin ✅
+    API Restfull ✅
+    Linter e pep08 ✅
+    JWT token para API ✅
+    RQL para Filtros ✅
     Testes
-    Serviços em containers
+    Serviços em containers ✅
     EvolutionApi (Serviços e integrações)
     E-mail SMTP (integração e envio)
-    PostgreSQL
+    PostgreSQL ✅
     Celery e RabbitMQ
         Rodar taskes de buscas de auto completar dados de veículos
-    Documentação da API (Swagger)
+    Documentação da API (Swagger) ✅
 
 
 Oque fazer por agora:
-    Swagger ✅
-        drf-spectacular drf-spectacular documentation ✅
-    Docker e docker-compose
-    PostgreSQL
+    Celery e RabbitMQ ✅
+    taskes de buscas dados por placa e auto completar

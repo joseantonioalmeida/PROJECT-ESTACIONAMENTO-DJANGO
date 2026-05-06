@@ -45,7 +45,7 @@ Não Funcionais:
     EvolutionApi (Serviços e integrações)
     E-mail SMTP (integração e envio)
     PostgreSQL ✅
-    Celery e RabbitMQ
+    Celery e RabbitMQ ✅
         Rodar taskes de buscas de auto completar dados de veículos
     Documentação da API (Swagger) ✅
 

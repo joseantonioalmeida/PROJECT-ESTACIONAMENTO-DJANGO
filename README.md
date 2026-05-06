@@ -13,18 +13,18 @@
 
 ## 📋 Sumário
 
-- [Visão Geral](#visão-geral)
-- [Tecnologias](#tecnologias)
-- [Arquitetura do Sistema](#arquitetura-do-sistema)
-- [Funcionalidades](#funcionalidades)
-- [Roadmap](#roadmap)
-- [Como Executar](#como-executar)
-- [Endpoints Principais](#endpoints-principais)
-- [Autenticação](#autenticação)
-- [Estrutura de Pastas](#estrutura-de-pastas)
-- [Boas Práticas Aplicadas](#boas-práticas-aplicadas)
-- [Possíveis Melhorias](#possíveis-melhorias)
-- [Contato](#contato)
+- [Visão Geral](#-visão-geral)
+- [Tecnologias](#-tecnologias)
+- [Arquitetura do Sistema](#-arquitetura-do-sistema)
+- [Funcionalidades](#-funcionalidades)
+- [Roadmap](#-roadmap)
+- [Como Executar](#-como-executar)
+- [Endpoints Principais](#-endpoints-principais)
+- [Autenticação](#-autenticação)
+- [Estrutura de Pastas](#-estrutura-de-pastas)
+- [Boas Práticas Aplicadas](#-boas-práticas-aplicadas)
+- [Possíveis Melhorias](#-possíveis-melhorias)
+- [Contato](#-contato)
 
 ---
 
